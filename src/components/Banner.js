@@ -59,6 +59,7 @@ export const Banner = () => {
                 <h1 style={{ color: '#424689' }}>{`Hi! I'm Nannapath`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p> My name is Nannapath Charoenlapmongkol,<br></br>
 Born in 2002 and currently living in Thailand.<br></br>
+Email : nannapath.c@gmail.com<br></br>
 Click the link below to view my Resume and Portfolio here! </p>
                   
 
